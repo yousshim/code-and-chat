@@ -1,0 +1,29 @@
+.msg-body {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 10px;
+  border-radius: 25px;
+  background-color: #82ccdd;
+  padding: 10px;
+  position: relative;
+}
+
+.sender-info {
+  color: darkgray;
+  font-size: 10px;
+}
+
+.scroll {
+  max-height: 500px;
+  height: 500px;
+  width: 300px;
+  overflow-y: auto;
+  position: relative;
+}
+
+textarea {
+  overflow: auto;
+  resize: none;
+  width: 800px;
+  height: 500px;
+}
